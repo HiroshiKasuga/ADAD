@@ -97,3 +97,4 @@ public class PlayerScript: MonoBehaviour {
 		
 	}
 }
+//(´・ω・｀)やあ
